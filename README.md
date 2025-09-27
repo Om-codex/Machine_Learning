@@ -12,7 +12,8 @@ This repo contains my learning journey in ML with practical projects, experiment
   - Gradient Descent
   - Stochastic GD
   - Mini-Batch GD
-  - Polynomial Regression (Overfitting & Underfitting examples)  
+  - Polynomial Regression (Overfitting & Underfitting examples)
+  - Ridge Regression Full
 
 - **Classification Models**  
   - (Coming soon 🚧)  
