@@ -14,6 +14,8 @@ This repo contains my learning journey in ML with practical projects, experiment
   - Mini-Batch GD
   - Polynomial Regression (Overfitting & Underfitting examples)
   - Ridge Regression Full
+  - Lasso Regression & Elastic Net
+  - Logistic Regression
 
 - **Classification Models**  
   - (Coming soon 🚧)  
