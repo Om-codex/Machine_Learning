@@ -16,7 +16,8 @@ This repo contains my learning journey in ML with practical projects, experiment
   - Ridge Regression Full
   - Lasso Regression & Elastic Net
   - Logistic Regression
-  - Decision Trees 
+  - Decision Trees
+  - Support Vector Machines SVM's
 
 - **Classification Models**  
   - (Coming soon 🚧)  
