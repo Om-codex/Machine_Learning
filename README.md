@@ -25,8 +25,9 @@ This repository documents my progress, from foundational algorithms to end-to-en
     * **Support Vector Machines (SVM)** with Linear and RBF kernels.
 * **Titanic Survival Prediction**
     * **Decision Trees** (including visualization with `dtreeviz`).
+    * Ensemble Methods: **Voting** and **Bagging** classifiers.
 * **(In Progress 🚧)**
-    * Ensemble Methods: **Random Forests, Bagging, Voting**.
+    * **Random Forests**.
     * Boosting Algorithms: **AdaBoost, Gradient Boosting, XGBoost**.
 
 ---
@@ -36,6 +37,7 @@ This repository documents my progress, from foundational algorithms to end-to-en
 * **Data Preprocessing:** Feature Scaling, One-Hot Encoding, and Feature Engineering.
 * **Model Evaluation:** R² Score (Regression) vs. Accuracy, Precision, Recall, F1-Score, and Classification Reports (Classification).
 * **Core Principles:** The Bias-Variance Tradeoff, Overfitting vs. Underfitting, and the importance of Data Quality.
+* **Ensemble Learning:** Bagging and Voting techniques.
 * **Optimization:** Deep dive into Gradient Descent and its variants.
 
 ---
