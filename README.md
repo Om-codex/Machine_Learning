@@ -1,48 +1,92 @@
 # 🧠 Machine Learning Projects Repository
 
-Welcome to my learning journey in Machine Learning! 🚀
+Welcome to my **Machine Learning Learning Journey!** 🚀  
 
-This repository documents my progress, from foundational algorithms to end-to-end projects. Here you'll find from-scratch implementations, detailed notebooks, and key insights from various datasets.
+This repository documents my progress — from the mathematical foundations of ML algorithms to full-fledged implementations. It includes from-scratch derivations, Scikit-learn applications, and clear visualizations for better understanding.
 
 ---
 
-## 📌 Projects & Algorithms Implemented
+## 📘 Repository Structure
 
-### 📊 Regression
-* **Advertising Sales Prediction**
-    * **Linear Regression** (using Scikit-learn, Normal Equation, and from-scratch Gradient Descent).
-    * Optimization with **Batch, Stochastic, and Mini-Batch Gradient Descent**.
-    * Regularization with **Ridge, Lasso, and Elastic Net**.
+### 🔹 Core Chapters
+- **Chapter1**, **Chapter2**, **Chapter3** — Foundational concepts, theory, and introductory experiments.
+
+---
+
+## 📊 Regression Algorithms
+
+* **Linear Regression**
+  * Implemented using Normal Equation, Scikit-learn, and custom Gradient Descent.
+* **Multiple Linear Regression**
+  * Extension of Linear Regression with multiple features.
 * **Polynomial Regression**
-    * Demonstrations of Overfitting and Underfitting.
-
-### 🎯 Classification
-* **Fashion-MNIST Image Classification**
-    * **Logistic Regression** & **Softmax Regression**.
-    * Detailed error analysis using **Confusion Matrices**.
-    * Visualization with **Principal Component Analysis (PCA)**.
-* **Breast Cancer Diagnosis**
-    * **Support Vector Machines (SVM)** with Linear and RBF kernels.
-* **Titanic Survival Prediction**
-    * **Decision Trees** (including visualization with `dtreeviz`).
-    * Ensemble Methods: **Voting** and **Bagging** classifiers.
-* **(In Progress 🚧)**
-    * **Random Forests**.
-    * Boosting Algorithms: **AdaBoost, Gradient Boosting, XGBoost**.
+  * Demonstrating underfitting vs. overfitting.
+* **Ridge Regression**, **Lasso**, **Elastic Net**
+  * Regularization techniques to handle multicollinearity and prevent overfitting.
 
 ---
 
-## 💡 Key Concepts Explored
+## 🧮 Optimization Techniques
 
-* **Data Preprocessing:** Feature Scaling, One-Hot Encoding, and Feature Engineering.
-* **Model Evaluation:** R² Score (Regression) vs. Accuracy, Precision, Recall, F1-Score, and Classification Reports (Classification).
-* **Core Principles:** The Bias-Variance Tradeoff, Overfitting vs. Underfitting, and the importance of Data Quality.
-* **Ensemble Learning:** Bagging and Voting techniques.
-* **Optimization:** Deep dive into Gradient Descent and its variants.
+* **Gradient Descent**
+  * Batch, Stochastic, and Mini-Batch implementations.
+  * Detailed analysis of convergence and learning rates.
+
+---
+
+## 🎯 Classification Algorithms
+
+* **Logistic Regression**
+  * Binary and multiclass classification.
+* **Naive Bayes**
+  * Probabilistic approach for categorical and text data.
+* **Support Vector Machines (SVMs)**
+  * Linear and RBF kernel-based models.
+* **Decision Trees**
+  * Visualization and interpretability.
+* **PCA (Principal Component Analysis)**
+  * Dimensionality reduction and visualization of feature spaces.
+
+---
+
+## 🌲 Ensemble Learning
+
+* **Bagging Ensemble**
+  * Combining weak learners to reduce variance.
+* **Voting Ensemble**
+  * Hard and soft voting classifiers.
+* **Gradient Boosting**
+  * Step-by-step implementation on the Iris dataset (`gradient-boosting-classifier-on-iris.ipynb`).
+* *(Upcoming)* AdaBoost, XGBoost, and Random Forests.
+
+---
+
+## 💡 Key Concepts Covered
+
+* **Data Preprocessing:** Scaling, encoding, handling missing values.  
+* **Model Evaluation:** R², Accuracy, Precision, Recall, F1-score, ROC-AUC.  
+* **Bias–Variance Tradeoff:** Theory and practical illustrations.  
+* **Regularization & Optimization:** Ridge, Lasso, Elastic Net, Gradient Descent.  
+* **Dimensionality Reduction & Feature Selection.**
 
 ---
 
 ## 🛠️ Technologies Used
 
-* **Language:** Python
-* **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow (for datasets), Matplotlib, Seaborn, `mlxtend`.
+* **Language:** Python 🐍  
+* **Libraries:**  
+  `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Scikit-learn`, `mlxtend`, and `TensorFlow (for datasets)`
+
+---
+
+## 📚 Learning Focus
+
+Each folder contains:
+- Jupyter notebooks explaining the math intuition 👨‍🏫  
+- Implementation from scratch and via Scikit-learn ⚙️  
+- Visualizations and model evaluations 📈  
+
+---
+
+⭐ **If you find this repository helpful, feel free to star it!**  
+Every star helps support continued learning and sharing 😊
