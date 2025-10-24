@@ -1,4 +1,4 @@
-# 🧠 Machine Learning Projects Repository
+# 🧠 Machine Learning Repository
 
 Welcome to my **Machine Learning Learning Journey!** 🚀  
 
